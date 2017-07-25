@@ -15,6 +15,6 @@ public class MyFirstSpringBootApplication {
 
 	@RequestMapping("/")
 	public String hello() {
-		return "Hello Spring Boot Docker World..!";
+		return "New Message. Hello Spring Boot Docker World..!";
 	}
 }
